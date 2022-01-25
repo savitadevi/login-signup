@@ -1,0 +1,34 @@
+{
+    "User": [
+        {
+            "username": "ujala",
+            "password": "Ujala@1234",
+            "Profile": {
+                "description": "travelling",
+                "Dob": "1306",
+                "Gender": "female",
+                "Hobbies": "songs"
+            }
+        },
+        {
+            "username": "rani",
+            "password": "rani@12",
+            "Profile": {
+                "description": "aesrdtfko",
+                "Dob": "wertyuio",
+                "Gender": "wertyui",
+                "Hobbies": "wertyu"
+            }
+        },
+        {
+            "username": "savi",
+            "password": "@savi12A",
+            "Profile": {
+                "description": "shubhangi",
+                "Dob": "10,10,195",
+                "Gender": "female",
+                "Hobbies": "fgh"
+            }
+        }
+    ]
+}
